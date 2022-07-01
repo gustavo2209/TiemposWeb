@@ -1,0 +1,10 @@
+body {
+    background-color: #ddeeff;
+}
+
+.parainfo-header {
+    background-color: #d3e9fa;
+    padding: 8px;
+    color: #ffffdd;
+    border-bottom: 1px solid #b3c9da;
+}
